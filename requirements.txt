@@ -1,2 +1,4 @@
 telethon
 asyncio
+flask
+flask_restful
