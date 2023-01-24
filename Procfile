@@ -1,1 +1,1 @@
-worker: python3 main.py
+web: python3 clever.py & python3 main.py
